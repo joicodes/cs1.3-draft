@@ -43,7 +43,22 @@ Students must pass the following course and demonstrate mastery of its competenc
 * **Section A**: Monday and Wednesday at 2:30–5:15pm PST (13 class sessions)
 * **Section B**: Tuesday and Thursday at 2:30–5:15pm PST (13 class sessions)
 
-
+| Class |                         Date                            |         Topics         |  Assignments               |
+|:-----:|:-------------------------------------------------------:|:----------------------:|:---------------------------|
+|   1   |  Section A: Mon, Mar 29 <br> Section B:  Tue, Mar 30    |  Number Bases          |
+|   -   | **No Class: Wednesday, Mar 31 for Cesar Chavez Day**    |
+|   2   |  Section A: Mon, April 5 <br> Section B: Thurs, Jan 19  | Linked Lists           | 
+|   3   |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Stacks & Queues        |  Due: [Module 2] and [Module 3]
+|   4   |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Algorithm Analysis     |
+|   5   |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Hash Tables            | Due: Module 3
+|   6   |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Recursion              |
+|   7   |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Trees                  | Released: Quiz 2, Due: Module 4
+|   8   |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Trees                  |
+|   9   |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Graphs                 | Due: Module 5
+|   10  |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Graphs                 | Released: Quiz 3
+|   11  |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Algorithm Optimization | Due: Module 6
+|   12  |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Algorithm Optimization | 
+|   13  |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Lab Day                | Due: [Technical Article], Module 7
 
 
 
