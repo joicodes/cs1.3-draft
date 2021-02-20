@@ -105,12 +105,12 @@ Your Gradescope login is your Make School email, and your password can be change
 
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments (one quiz or coding module assignment can be dropped)
-- Pass all assignments according to the associated assignment rubric 
-- Pass all quizzes with a score 70% or higher 
-- If an assignment or quiz is not passing you will have up to a week after your grade is received to retake and bring your score up to passing
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+- Complete all required modules for each lesson.
+- Pass all modules with a score 70% or higher.
+- Your lowest module will be droppered.
+- Complete and publish the Technical Article by the end of the term.
+- Actively participate in class and abide by the attendance policy.
+- Make up all classwork from all absences.
 
 ##  Information Resources
 
