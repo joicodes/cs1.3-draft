@@ -67,8 +67,8 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 
 
-[Number Bases]: https://www.gradescope.com/
-[Linked Lists]: https://www.gradescope.com/
+[Number Bases]: https://docs.google.com/presentation/d/1izjO_H7DJWGUtSuuc1SWZ01HIaCf4WFSyQCqKNxuPm4
+[Linked Lists]: https://docs.google.com/presentation/d/1K_lYh3ukPwG58mh-RnxUA8_VtrtrmPIVWQb8c1sNVhk
 [Stacks & Queues]: https://www.gradescope.com/
 [Algorithm Analysis]: https://www.gradescope.com/
 [Recursion]: https://www.gradescope.com/
