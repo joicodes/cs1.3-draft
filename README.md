@@ -43,35 +43,51 @@ Students must pass the following course and demonstrate mastery of its competenc
 * **Section A**: Monday and Wednesday at 2:30–5:15pm PST (13 class sessions)
 * **Section B**: Tuesday and Thursday at 2:30–5:15pm PST (13 class sessions)
 
+
+<br/>
+
+
 | Class |                         Date                            |         Topics         |  Assignments               |
 |:-----:|:-------------------------------------------------------:|:----------------------:|:---------------------------|
 |   1   |  Section A: Mon, Mar 29 <br> Section B:  Tue, Mar 30    |  Number Bases          |
 |   -   | **No Class: Wednesday, Mar 31 for Cesar Chavez Day**    |
 |   2   |  Section A:  Mon, Apr 5  <br> Section B:  Thurs, Apr 1  | Linked Lists           | 
-|   3   |  Section A:  Wed, Apr 7  <br> Section B:  Tue, Apr 6    | Stacks & Queues        |  Due: [Module 2] and [Module 3]
+|   3   |  Section A:  Wed, Apr 7  <br> Section B:  Tue, Apr 6    | Stacks & Queues        |  
 |   4   |  Section A:  Mon, Apr 12 <br> Section B:  Thurs, Apr 8  | Algorithm Analysis     |
-|   5   |  Section A:  Wed, Apr 14 <br> Section B:  Tue, Apr 13   | Hash Tables            | Due: Module 3
+|   5   |  Section A:  Wed, Apr 14 <br> Section B:  Tue, Apr 13   | Hash Tables            | 
 |   6   |  Section A:  Mon, Apr 19 <br> Section B:  Thurs, Apr 15 | Recursion              |
-|   7   |  Section A:  Wed, Apr 21 <br> Section B:  Tue, Apr 20   | Trees                  | Released: Quiz 2, Due: Module 4
+|   7   |  Section A:  Wed, Apr 21 <br> Section B:  Tue, Apr 20   | Trees                  | 
 |   8   |  Section A:  Mon, Apr 26 <br> Section B:  Thurs, Apr 22 | Trees                  |
-|   9   |  Section A:  Wed, Apr 28 <br> Section B:  Tue, Apr 27   | Graphs                 | Due: Module 5
-|   10  |  Section A:  Mon, May 3  <br> Section B:  Thurs, Apr 29 | Graphs                 | Released: Quiz 3
-|   11  |  Section A:  Wed, May 5  <br> Section B:  Tue, May 4    | Algorithm Optimization | Due: Module 6
+|   9   |  Section A:  Wed, Apr 28 <br> Section B:  Tue, Apr 27   | Graphs                 | 
+|   10  |  Section A:  Mon, May 3  <br> Section B:  Thurs, Apr 29 | Graphs                 | 
+|   11  |  Section A:  Wed, May 5  <br> Section B:  Tue, May 4    | Algorithm Optimization | 
 |   12  |  Section A:  Mon, May 10 <br> Section B:  Thurs, May 6  | Algorithm Optimization | 
-|   13  |  Section A:  Wed, May 12 <br> Section B:  Tue, May 11   | Lab Day                | Due: [Technical Article], Module 7
-
-
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+|   13  |  Section A:  Wed, May 12 <br> Section B:  Tue, May 11   | Lab Day                | 
 
 
 
 
+[Number Bases]: https://www.gradescope.com/
+[Linked Lists]: https://www.gradescope.com/
+[Stacks & Queues]: https://www.gradescope.com/
+[Algorithm Analysis]: https://www.gradescope.com/
+[Recursion]: https://www.gradescope.com/
+[Trees]: https://www.gradescope.com/
+[Graphs]: https://www.gradescope.com/
+[Algorithm Optimization]: https://www.gradescope.com/
 
 
+[Module 1]: https://www.gradescope.com/
+[Module 2]: https://www.gradescope.com/
+[Module 3]: https://www.gradescope.com/
+[Module 4]: https://www.gradescope.com/
+[Module 5]: https://www.gradescope.com/
+[Module 6]: https://www.gradescope.com/
+[Module 7]: https://www.gradescope.com/
+[Module 8]: https://www.gradescope.com/
+[Module 9]: https://www.gradescope.com/
 
-
-
+[Technical Article]: https://www.gradescope.com/
 
 
 
