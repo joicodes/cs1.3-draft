@@ -47,29 +47,29 @@ Students must pass the following course and demonstrate mastery of its competenc
 <br/>
 
 
-| Class |                         Date                            |         Topics         |                 Assignments                 |
-|:-----:|:-------------------------------------------------------:|:----------------------:|:--------------------------------------------|
-|   1   |  Section A: Mon, Mar 29 <br> Section B:  Tue, Mar 30    |  Number Bases          | [Module 1] <br/> due Thur, Apr 1 @ 11pm PST |
+| Class |                         Date                            |          Topics          |                 Assignments                 |
+|:-----:|:-------------------------------------------------------:|:------------------------:|:--------------------------------------------|
+|   1   |  Section A: Mon, Mar 29 <br> Section B:  Tue, Mar 30    | [Number Bases]           | [Module 1] <br/> due Thur, Apr 1 @ 11pm PST |
 |   -   | **No Class: Wednesday, Mar 31 for Cesar Chavez Day**    |
-|   2   |  Section A:  Mon, Apr 5  <br> Section B:  Thurs, Apr 1  | Linked Lists           | [Module 2] <br/> due Wed, Apr 7 @ 11pm PST  |
-|   3   |  Section A:  Wed, Apr 7  <br> Section B:  Tue, Apr 6    | Stacks & Queues        | [Module 3] <br/> due Fri, Apr 9 @ 11pm PST  |
-|   4   |  Section A:  Mon, Apr 12 <br> Section B:  Thurs, Apr 8  | Algorithm Analysis     | [Module 4] <br/> due Wed, Apr 14 @ 11pm PST |
-|   5   |  Section A:  Wed, Apr 14 <br> Section B:  Tue, Apr 13   | Hash Tables            | [Module 5] <br/> due Fri, Apr 16 @ 11pm PST |
-|   6   |  Section A:  Mon, Apr 19 <br> Section B:  Thurs, Apr 15 | Recursion              | [Module 6] <br/> due Wed, Apr 21 @ 11pm PST |
-|   7   |  Section A:  Wed, Apr 21 <br> Section B:  Tue, Apr 20   | Trees                  | [Module 7] <br/> due Wed, Apr 28 @ 11pm PST |
-|   8   |  Section A:  Mon, Apr 26 <br> Section B:  Thurs, Apr 22 | Trees                  | 
-|   9   |  Section A:  Wed, Apr 28 <br> Section B:  Tue, Apr 27   | Graphs                 | [Module 8] <br/> due Wed, May 5 @ 11pm PST  |
-|   10  |  Section A:  Mon, May 3  <br> Section B:  Thurs, Apr 29 | Graphs                 | 
-|   11  |  Section A:  Wed, May 5  <br> Section B:  Tue, May 4    | Algorithm Optimization | [Module 9] <br/> due Wed, May 12 @ 11pm PST |
-|   12  |  Section A:  Mon, May 10 <br> Section B:  Thurs, May 6  | Algorithm Optimization | 
-|   13  |  Section A:  Wed, May 12 <br> Section B:  Tue, May 11   | Lab Day                | [Technical Article] <br/> due Wed, May 12 @ 11pm PST |
+|   2   |  Section A:  Mon, Apr 5  <br> Section B:  Thurs, Apr 1  | [Linked Lists]           | [Module 2] <br/> due Wed, Apr 7 @ 11pm PST  |
+|   3   |  Section A:  Wed, Apr 7  <br> Section B:  Tue, Apr 6    | [Stacks & Queues]        | [Module 3] <br/> due Fri, Apr 9 @ 11pm PST  |
+|   4   |  Section A:  Mon, Apr 12 <br> Section B:  Thurs, Apr 8  | [Algorithm Analysis]     | [Module 4] <br/> due Wed, Apr 14 @ 11pm PST |
+|   5   |  Section A:  Wed, Apr 14 <br> Section B:  Tue, Apr 13   | [Hash Tables]            | [Module 5] <br/> due Fri, Apr 16 @ 11pm PST |
+|   6   |  Section A:  Mon, Apr 19 <br> Section B:  Thurs, Apr 15 | [Recursion]              | [Module 6] <br/> due Wed, Apr 21 @ 11pm PST |
+|   7   |  Section A:  Wed, Apr 21 <br> Section B:  Tue, Apr 20   | [Trees]                  | [Module 7] <br/> due Wed, Apr 28 @ 11pm PST |
+|   8   |  Section A:  Mon, Apr 26 <br> Section B:  Thurs, Apr 22 | [Trees]                  | 
+|   9   |  Section A:  Wed, Apr 28 <br> Section B:  Tue, Apr 27   | [Graphs]                 | [Module 8] <br/> due Wed, May 5 @ 11pm PST  |
+|   10  |  Section A:  Mon, May 3  <br> Section B:  Thurs, Apr 29 | [Graphs]                 | 
+|   11  |  Section A:  Wed, May 5  <br> Section B:  Tue, May 4    | [Algorithm Optimization] | [Module 9] <br/> due Wed, May 12 @ 11pm PST |
+|   12  |  Section A:  Mon, May 10 <br> Section B:  Thurs, May 6  | [Algorithm Optimization] | 
+|   13  |  Section A:  Wed, May 12 <br> Section B:  Tue, May 11   |  Lab Day                 | [Technical Article] <br/> due Wed, May 12 @ 11pm PST |
 
 
 
 
 [Number Bases]: https://docs.google.com/presentation/d/1izjO_H7DJWGUtSuuc1SWZ01HIaCf4WFSyQCqKNxuPm4
 [Linked Lists]: https://docs.google.com/presentation/d/1K_lYh3ukPwG58mh-RnxUA8_VtrtrmPIVWQb8c1sNVhk
-[Stacks & Queues]: https://www.gradescope.com/
+[Stacks & Queues]: https://docs.google.com/presentation/d/11WDGP2tPgGDjTBd6QBS2oGeWg1h9ycLn5RQsFcgN0dw
 [Algorithm Analysis]: https://www.gradescope.com/
 [Recursion]: https://www.gradescope.com/
 [Trees]: https://www.gradescope.com/
