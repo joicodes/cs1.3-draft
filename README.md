@@ -47,18 +47,18 @@ Students must pass the following course and demonstrate mastery of its competenc
 |:-----:|:-------------------------------------------------------:|:----------------------:|:---------------------------|
 |   1   |  Section A: Mon, Mar 29 <br> Section B:  Tue, Mar 30    |  Number Bases          |
 |   -   | **No Class: Wednesday, Mar 31 for Cesar Chavez Day**    |
-|   2   |  Section A: Mon, April 5 <br> Section B: Thurs, Jan 19  | Linked Lists           | 
-|   3   |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Stacks & Queues        |  Due: [Module 2] and [Module 3]
-|   4   |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Algorithm Analysis     |
-|   5   |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Hash Tables            | Due: Module 3
-|   6   |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Recursion              |
-|   7   |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Trees                  | Released: Quiz 2, Due: Module 4
-|   8   |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Trees                  |
-|   9   |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Graphs                 | Due: Module 5
-|   10  |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Graphs                 | Released: Quiz 3
-|   11  |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Algorithm Optimization | Due: Module 6
-|   12  |  Section A: Mon, Jan 18 <br> Section B:  Thurs, Jan 19  | Algorithm Optimization | 
-|   13  |  Section A: Wed, Jan 18 <br> Section B:  Tue, Jan 19    | Lab Day                | Due: [Technical Article], Module 7
+|   2   |  Section A:  Mon, Apr 5  <br> Section B:  Thurs, Apr 1  | Linked Lists           | 
+|   3   |  Section A:  Wed, Apr 7  <br> Section B:  Tue, Apr 6    | Stacks & Queues        |  Due: [Module 2] and [Module 3]
+|   4   |  Section A:  Mon, Apr 12 <br> Section B:  Thurs, Apr 8  | Algorithm Analysis     |
+|   5   |  Section A:  Wed, Apr 14 <br> Section B:  Tue, Apr 13   | Hash Tables            | Due: Module 3
+|   6   |  Section A:  Mon, Apr 19 <br> Section B:  Thurs, Apr 15 | Recursion              |
+|   7   |  Section A:  Wed, Apr 21 <br> Section B:  Tue, Apr 20   | Trees                  | Released: Quiz 2, Due: Module 4
+|   8   |  Section A:  Mon, Apr 26 <br> Section B:  Thurs, Apr 22 | Trees                  |
+|   9   |  Section A:  Wed, Apr 28 <br> Section B:  Tue, Apr 27   | Graphs                 | Due: Module 5
+|   10  |  Section A:  Mon, May 3  <br> Section B:  Thurs, Apr 29 | Graphs                 | Released: Quiz 3
+|   11  |  Section A:  Wed, May 5  <br> Section B:  Tue, May 4    | Algorithm Optimization | Due: Module 6
+|   12  |  Section A:  Mon, May 10 <br> Section B:  Thurs, May 6  | Algorithm Optimization | 
+|   13  |  Section A:  Wed, May 12 <br> Section B:  Tue, May 11   | Lab Day                | Due: [Technical Article], Module 7
 
 
 
