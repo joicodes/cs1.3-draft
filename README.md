@@ -77,13 +77,13 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Algorithm Optimization]: https://www.gradescope.com/
 
 
-[Module 1]: https://www.gradescope.com/
-[Module 2]: https://www.gradescope.com/
-[Module 3]: https://www.gradescope.com/
-[Module 4]: https://www.gradescope.com/
-[Module 5]: https://www.gradescope.com/
-[Module 6]: https://www.gradescope.com/
-[Module 7]: https://www.gradescope.com/
+[Module 1]: https://www.gradescope.com/courses/248820/assignments/1038602
+[Module 2]: https://www.gradescope.com/courses/248820/assignments/1038603
+[Module 3]: https://www.gradescope.com/courses/248820/assignments/1038604
+[Module 4]: https://www.gradescope.com/courses/248820/assignments/1038605
+[Module 5]: https://www.gradescope.com/courses/248820/assignments/1038607
+[Module 6]: https://www.gradescope.com/courses/248820/assignments/1038608
+[Module 7]: https://www.gradescope.com/courses/248820/assignments/1038609
 [Module 8]: https://www.gradescope.com/
 [Module 9]: https://www.gradescope.com/
 
