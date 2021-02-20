@@ -1,6 +1,6 @@
 # CS 1.3: Core Data Structures & Algorithms
 
-## Course Description
+### Course Description
 
 This course explores the foundations of computer science including discrete mathematics, abstract data types, data structures, and algorithm analysis and design. Students will compare and contrast iterative and recursive algorithms to analyze design and performance tradeoffs. 
 
@@ -8,7 +8,7 @@ Students will implement and test data structures including lists, stacks, queues
 
 
  
-## Learning Outcomes
+### Learning Outcomes
 
 By the end of this course, students will be able to:
 1. Implement, compare and contrast iterative and recursive algorithms
@@ -18,7 +18,7 @@ By the end of this course, students will be able to:
 1. Write technical articles to deepen understanding and demonstrate mastery
 
 
-## Prerequisites
+### Prerequisites
 
 Students must pass the following course and demonstrate mastery of its competencies:
 - [CS 1.2: Introduction to Data Structures](https://make.sc/cs12-repo) 
@@ -27,13 +27,13 @@ Students must pass the following course and demonstrate mastery of its competenc
 ---
 
 
-## Course Specifics
+### Course Specifics
 
 **Course Delivery**: online | 7 weeks | 14 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
-## Schedule
+### Schedule
 
 **Course Dates:** 
 * **Section A**: Monday, March 29 – Wednesday, May 12, 2021 (7 weeks)
@@ -61,6 +61,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 
 
+--- 
 
 ## Assignments
 
