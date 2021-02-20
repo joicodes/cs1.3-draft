@@ -70,11 +70,12 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Number Bases]: https://docs.google.com/presentation/d/1izjO_H7DJWGUtSuuc1SWZ01HIaCf4WFSyQCqKNxuPm4
 [Linked Lists]: https://docs.google.com/presentation/d/1K_lYh3ukPwG58mh-RnxUA8_VtrtrmPIVWQb8c1sNVhk
 [Stacks & Queues]: https://docs.google.com/presentation/d/11WDGP2tPgGDjTBd6QBS2oGeWg1h9ycLn5RQsFcgN0dw
-[Algorithm Analysis]: https://www.gradescope.com/
-[Recursion]: https://www.gradescope.com/
-[Trees]: https://www.gradescope.com/
-[Graphs]: https://www.gradescope.com/
-[Algorithm Optimization]: https://www.gradescope.com/
+[Algorithm Analysis]: https://docs.google.com/presentation/d/13RiKOvjRM_MDdnnIuA9zFaj79FzbjyDD-lTmTReBjb4
+[Hash Tables]: https://docs.google.com/presentation/d/1iEdstlNwOJMPgG5y8YXD5FkMS6tHJEGyE5ngUicPykM
+[Recursion]: https://docs.google.com/presentation/d/1O8OC3XICAfVXzaulHr_9PaBKu0Mmeljg8nk7DvV-BwM
+[Trees]: https://docs.google.com/presentation/d/1_imA_w4sr02fa1bfF4XMSydGpL4DN9gOO6LkXeTfGiE
+[Graphs]: https://docs.google.com/presentation/d/1b3dfuE11r08OFHEagXaHfP5hpsNlTWu5LAfFzj9I7fo
+[Algorithm Optimization]: https://docs.google.com/presentation/d/1dZ1-AdSCw2LSdP8bneJIIjhGVv-JxCfzXx4zq3o7rqw
 
 
 [Module 1]: https://www.gradescope.com/courses/248820/assignments/1038602
