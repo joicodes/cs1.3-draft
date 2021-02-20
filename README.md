@@ -88,7 +88,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Module 8]: https://www.gradescope.com/
 [Module 9]: https://www.gradescope.com/
 
-[Technical Article]: https://www.gradescope.com/
+[Technical Article]: Assignments/TechnicalArticle.md
 
 
 
