@@ -105,9 +105,9 @@ Each lesson will have an associated module consisting of review, conceptual, and
 ### Technical Article
 
 Students will also write a technical article about a topic related to course content to deepen their understanding, improve their technical writing skills, and demonstrate mastery of computer science, which will bolster their online presence as knowledgeable and proficient software engineers.
-Refer to the [technical article guidelines][] for more information about article requirements and detailed tips on how to select a topic related to computer science, research the topic, create an outline, write your article, cite all sources of borrowed material, and provide feedback to other students.
+Refer to the [technical article guidelines] for more information about article requirements and detailed tips on how to select a topic related to computer science, research the topic, create an outline, write your article, cite all sources of borrowed material, and provide feedback to other students.
 
-[technical article guidelines]: https://make.sc/cs13-article-guidelines
+[technical article guidelines]: Assignments/TechnicalArticle.md
 
 ## Assignment Submissions
 
