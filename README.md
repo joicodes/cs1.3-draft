@@ -24,19 +24,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 - [CS 1.2: Introduction to Data Structures](https://make.sc/cs12-repo) 
 
 
-
-## Interview Topics
-
-
-### Algorithmic/Computer Science
-
-- 
-
-### Technical Discussion
-
-- 
-
-
+---
 
 
 ## Course Specifics
