@@ -1,8 +1,20 @@
 
-## Technical Article Guidelines & Requirements
+# Technical Article Guidelines & Requirements
 The purpose of the technical article assignment is to learn more about a topic related to computer science and produce a high quality article that demonstrates your learning and ability to effectively communicate technical ideas in writing.
 ###Guidelines for Getting Started
 
+## Technical Article Requirements
+
+1. **Images and Diagrams:** Your article must include 3 or more images. Although meme images might make your article more fun to read, at least 3 images must be relevant to the topic, like a diagram that visually illustrates a point made in the article.
+
+2. **Code Sample:** You must include a code sample (or at least pseudocode for an algorithm) that illustrates some point from your article.
+There is no specific length requirement for your code sample, but it should be relevant and help reinforce the reader’s understanding of your topic.
+
+3. **Article Length:** Your finished article must be 400 to 800 words long.
+
+4. **Publishing:** You must publish your article online for the world to read. For this assignment, please submit a Google Doc, but after completion of this course, I recommend that you post a revised version to Medium to share on your portfolio.
+
+## Guidelines for Writing a Technical Article:
 #### Selecting a Topic
 1. Your topic MUST be related to computer science. Ideally the topic is covered directly in CS 1.2 or 1.3, or something related.
 
@@ -32,17 +44,6 @@ The purpose of the technical article assignment is to learn more about a topic r
 #### Writing Your Article
 * Begin writing the article section by section. You might have to revisit the documentation and other articles that you read before in order to beef up these sections.
 * Make sure to incorporate your own ideas. Anything that you found interesting or enlightening when you were doing research. If you have ideas for an analogy that might make the topic more accessible, definitely include that to communicate the idea.
-
-#### Technical Article Requirements
-
-1. **Images and Diagrams:** Your article must include 3 or more images. Although meme images might make your article more fun to read, at least 3 images must be relevant to the topic, like a diagram that visually illustrates a point made in the article.
-
-2. **Code Sample:** You must include a code sample (or at least pseudocode for an algorithm) that illustrates some point from your article.
-There is no specific length requirement for your code sample, but it should be relevant and help reinforce the reader’s understanding of your topic.
-
-3. **Article Length:** Your finished article must be 400 to 800 words long.
-
-4. **Publishing:** You must publish your article online for the world to read. For this assignment, please submit a Google Doc, but after completion of this course, I recommend that you post a revised version to Medium to share on your portfolio.
 
 
 #### Citations
