@@ -62,7 +62,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 |   10  |  Section A:  Mon, May 3  <br> Section B:  Thurs, Apr 29 | Graphs                 | 
 |   11  |  Section A:  Wed, May 5  <br> Section B:  Tue, May 4    | Algorithm Optimization | [Module 9] <br/> due Wed, May 12 @ 11pm PST |
 |   12  |  Section A:  Mon, May 10 <br> Section B:  Thurs, May 6  | Algorithm Optimization | 
-|   13  |  Section A:  Wed, May 12 <br> Section B:  Tue, May 11   | Lab Day                | [Module 1] <br/> due Wed, May 12 @ 11pm PST |
+|   13  |  Section A:  Wed, May 12 <br> Section B:  Tue, May 11   | Lab Day                | [Technical Article] <br/> due Wed, May 12 @ 11pm PST |
 
 
 
