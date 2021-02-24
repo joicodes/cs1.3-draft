@@ -11,11 +11,11 @@ Students will implement and test data structures including lists, stacks, queues
 ### Learning Outcomes
 
 By the end of this course, students will be able to:
-1. Implement, compare and contrast iterative and recursive algorithms
-1. Analyze best-case and worst-case time and space complexity of an algorithm
-1. Implement several abstract data types and data structures including linked lists, stacks, queues, hash tables, maps, sets, and binary search trees
-1. Implement tree traversal algorithms: depth-first and breadth-first ordering
-1. Write technical articles to deepen understanding and demonstrate mastery
+1. Implement, compare and contrast iterative and recursive algorithms.
+1. Analyze best-case and worst-case time and space complexity of an algorithm.
+1. Implement several abstract data types and data structures including linked lists, stacks, queues, hash tables, maps, sets, and binary search trees.
+1. Implement tree traversal algorithms: depth-first and breadth-first ordering.
+1. Write technical articles to deepen understanding and demonstrate mastery.
 
 
 ### Prerequisites
@@ -47,22 +47,22 @@ Students must pass the following course and demonstrate mastery of its competenc
 <br/>
 
 
-| Class |                         Date                            |          Topics          |                 Assignments                 |
-|:-----:|:-------------------------------------------------------:|:------------------------:|:--------------------------------------------|
-|   1   |  Section A: Mon, Mar 29 <br> Section B:  Tue, Mar 30    | [Number Bases]           | [Module 1] <br/> due Thur, Apr 1 @ 11pm PST |
-|   -   | **No Class: Wednesday, Mar 31 for Cesar Chavez Day**    |
-|   2   |  Section A:  Mon, Apr 5  <br> Section B:  Thurs, Apr 1  | [Linked Lists]           | [Module 2] <br/> due Wed, Apr 7 @ 11pm PST  |
-|   3   |  Section A:  Wed, Apr 7  <br> Section B:  Tue, Apr 6    | [Stacks & Queues]        | [Module 3] <br/> due Fri, Apr 9 @ 11pm PST  |
-|   4   |  Section A:  Mon, Apr 12 <br> Section B:  Thurs, Apr 8  | [Algorithm Analysis]     | [Module 4] <br/> due Wed, Apr 14 @ 11pm PST |
-|   5   |  Section A:  Wed, Apr 14 <br> Section B:  Tue, Apr 13   | [Hash Tables]            | [Module 5] <br/> due Fri, Apr 16 @ 11pm PST |
-|   6   |  Section A:  Mon, Apr 19 <br> Section B:  Thurs, Apr 15 | [Recursion]              | [Module 6] <br/> due Wed, Apr 21 @ 11pm PST |
-|   7   |  Section A:  Wed, Apr 21 <br> Section B:  Tue, Apr 20   | [Trees]                  | [Module 7] <br/> due Wed, Apr 28 @ 11pm PST |
-|   8   |  Section A:  Mon, Apr 26 <br> Section B:  Thurs, Apr 22 | [Trees]                  | 
-|   9   |  Section A:  Wed, Apr 28 <br> Section B:  Tue, Apr 27   | [Graphs]                 | [Module 8] <br/> due Wed, May 5 @ 11pm PST  |
-|   10  |  Section A:  Mon, May 3  <br> Section B:  Thurs, Apr 29 | [Graphs]                 | 
-|   11  |  Section A:  Wed, May 5  <br> Section B:  Tue, May 4    | [Algorithm Optimization] | [Module 9] <br/> due Wed, May 12 @ 11pm PST |
-|   12  |  Section A:  Mon, May 10 <br> Section B:  Thurs, May 6  | [Algorithm Optimization] | 
-|   13  |  Section A:  Wed, May 12 <br> Section B:  Tue, May 11   |  Lab Day                 | [Technical Article] <br/> due Wed, May 12 @ 11pm PST |
+| Class |                         Date                            |          Topics             |                 Assignments                 |
+|:-----:|:-------------------------------------------------------:|:---------------------------:|:--------------------------------------------|
+|   1   |  Section A: Mon, Mar 29  <br> Section B:  Tue, Mar 30   | [Number Bases]              | [Module 1] <br/> due Thur, Apr 1 @ 11pm PST |
+|   -   |  Section A: Wed, Mar 31  <br> Section B:  Thu, Apr 1    | **No Class - Cesar Chavez** |
+|   2   |  Section A:  Mon, Apr 5  <br> Section B:  Tue, Apr 6    | [Linked Lists]              | [Module 2] <br/> due Wed, Apr 7 @ 11pm PST  |
+|   3   |  Section A:  Wed, Apr 7  <br> Section B:  Thu, Apr 8    | [Stacks & Queues]           | [Module 3] <br/> due Fri, Apr 9 @ 11pm PST  |
+|   4   |  Section A:  Mon, Apr 12 <br> Section B:  Tue, Apr 13   | [Algorithm Analysis]        | [Module 4] <br/> due Wed, Apr 14 @ 11pm PST |
+|   5   |  Section A:  Wed, Apr 14 <br> Section B:  Thu, Apr 15   | [Hash Tables]               | [Module 5] <br/> due Fri, Apr 16 @ 11pm PST |
+|   6   |  Section A:  Mon, Apr 19 <br> Section B:  Tue, Apr 20   | [Recursion]                 | [Module 6] <br/> due Wed, Apr 21 @ 11pm PST |
+|   7   |  Section A:  Wed, Apr 21 <br> Section B:  Thu, Apr 22   | [Trees]                     | [Module 7] <br/> due Wed, Apr 28 @ 11pm PST |
+|   8   |  Section A:  Mon, Apr 26 <br> Section B:  Tue, Apr 27   | [Trees]                     | 
+|   9   |  Section A:  Wed, Apr 28 <br> Section B:  Thu, Apr 29   | [Graphs]                    | [Module 8] <br/> due Wed, May 5 @ 11pm PST  |
+|   10  |  Section A:  Mon, May 3  <br> Section B:  Tue, May 4    | [Graphs]                    | 
+|   11  |  Section A:  Wed, May 5  <br> Section B:  Thu, May 6    | [Algorithm Optimization].   | [Module 9] <br/> due Wed, May 12 @ 11pm PST |
+|   12  |  Section A:  Mon, May 10 <br> Section B:  Tue, May 11   | [Algorithm Optimization]    | 
+|   13  |  Section A:  Wed, May 12 <br> Section B:  Thu, May 13   |  Lab Day                    | [Technical Article] <br/> due Wed, May 12 @ 11pm PST |
 
 
 
