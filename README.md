@@ -35,34 +35,32 @@ Students must pass the following course and demonstrate mastery of its competenc
 
 ### Schedule
 
-**Course Dates:** 
-* **Section A**: Monday, March 29 – Wednesday, May 12, 2021 (7 weeks)
-* **Section B**: Tuesday, March 30 – Tuesday, May 11, 2021 (7 weeks)
+**Course Dates:** Tuesday, March 30 – Thursday, May 13, 2021 (7 weeks)
 
 **Class Times:** 
-* **Section A**: Monday and Wednesday at 2:30–5:15pm PST (13 class sessions)
+* **Section A**: Tuesday and Thursday at 9:30–12:15pm PST (13 class sessions)
 * **Section B**: Tuesday and Thursday at 2:30–5:15pm PST (13 class sessions)
 
 
 <br/>
 
 
-| Class |                         Date                            |          Topics             |                 Assignments                 |
-|:-----:|:-------------------------------------------------------:|:---------------------------:|:--------------------------------------------|
-|   1   |  Section A: Mon, Mar 29  <br> Section B:  Tue, Mar 30   | [Number Bases]              | [Module 1] <br/> due Thur, Apr 1 @ 11pm PST |
-|   -   |  Section A: Wed, Mar 31  <br> Section B:  Thu, Apr 1    | **No Class - Cesar Chavez** |
-|   2   |  Section A:  Mon, Apr 5  <br> Section B:  Tue, Apr 6    | [Linked Lists]              | [Module 2] <br/> due Wed, Apr 7 @ 11pm PST  |
-|   3   |  Section A:  Wed, Apr 7  <br> Section B:  Thu, Apr 8    | [Stacks & Queues]           | [Module 3] <br/> due Fri, Apr 9 @ 11pm PST  |
-|   4   |  Section A:  Mon, Apr 12 <br> Section B:  Tue, Apr 13   | [Algorithm Analysis]        | [Module 4] <br/> due Wed, Apr 14 @ 11pm PST |
-|   5   |  Section A:  Wed, Apr 14 <br> Section B:  Thu, Apr 15   | [Hash Tables]               | [Module 5] <br/> due Fri, Apr 16 @ 11pm PST |
-|   6   |  Section A:  Mon, Apr 19 <br> Section B:  Tue, Apr 20   | [Recursion]                 | [Module 6] <br/> due Wed, Apr 21 @ 11pm PST |
-|   7   |  Section A:  Wed, Apr 21 <br> Section B:  Thu, Apr 22   | [Trees]                     | [Module 7] <br/> due Wed, Apr 28 @ 11pm PST |
-|   8   |  Section A:  Mon, Apr 26 <br> Section B:  Tue, Apr 27   | [Trees]                     | 
-|   9   |  Section A:  Wed, Apr 28 <br> Section B:  Thu, Apr 29   | [Graphs]                    | [Module 8] <br/> due Wed, May 5 @ 11pm PST  |
-|   10  |  Section A:  Mon, May 3  <br> Section B:  Tue, May 4    | [Graphs]                    | 
-|   11  |  Section A:  Wed, May 5  <br> Section B:  Thu, May 6    | [Algorithm Optimization].   | [Module 9] <br/> due Wed, May 12 @ 11pm PST |
-|   12  |  Section A:  Mon, May 10 <br> Section B:  Tue, May 11   | [Algorithm Optimization]    | 
-|   13  |  Section A:  Wed, May 12 <br> Section B:  Thu, May 13   |  Lab Day                    | [Technical Article] <br/> due Wed, May 12 @ 11pm PST |
+| Class |      Date    |          Topics             |                 Assignments                 |
+|:-----:|:------------:|:---------------------------:|:--------------------------------------------|
+|   1   |  Tue, Mar 30 | [Number Bases]              | [Module 1] <br/> due Thur, Apr 1 @ 11pm PST |
+|   -   |  Thu, Apr 1  | **No Class - Cesar Chavez** |
+|   2   |  Tue, Apr 6  | [Linked Lists]              | [Module 2] <br/> due Wed, Apr 7 @ 11pm PST  |
+|   3   |  Thu, Apr 8  | [Stacks & Queues]           | [Module 3] <br/> due Fri, Apr 9 @ 11pm PST  |
+|   4   |  Tue, Apr 13 | [Algorithm Analysis]        | [Module 4] <br/> due Wed, Apr 14 @ 11pm PST |
+|   5   |  Thu, Apr 15 | [Hash Tables]               | [Module 5] <br/> due Fri, Apr 16 @ 11pm PST |
+|   6   |  Tue, Apr 20 | [Recursion]                 | [Module 6] <br/> due Wed, Apr 21 @ 11pm PST |
+|   7   |  Thu, Apr 22 | [Trees]                     | [Module 7] <br/> due Wed, Apr 28 @ 11pm PST |
+|   8   |  Tue, Apr 27 | [Trees]                     |                                             |
+|   9   |  Thu, Apr 29 | [Graphs]                    | [Module 8] <br/> due Wed, May 5 @ 11pm PST  |
+|   10  |  Tue, May 4  | [Graphs]                    |                                             | 
+|   11  |  Thu, May 6  | [Algorithm Optimization].   | [Technical Article] <br/> due Wed, May 12 @ 11pm PST |
+|   12  |  Tue, May 11 | [Algorithm Optimization]    |                                             | 
+|   13  |  Thu, May 13 |  Lab Day                    |                                             |
 
 
 
@@ -85,8 +83,7 @@ Students must pass the following course and demonstrate mastery of its competenc
 [Module 5]: https://www.gradescope.com/courses/248820/assignments/1038607
 [Module 6]: https://www.gradescope.com/courses/248820/assignments/1038608
 [Module 7]: https://www.gradescope.com/courses/248820/assignments/1038609
-[Module 8]: https://www.gradescope.com/
-[Module 9]: https://www.gradescope.com/
+[Module 8]: https://www.gradescope.com/courses/248820/assignments/1099887
 
 [Technical Article]: Assignments/TechnicalArticle.md
 
